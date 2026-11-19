@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: secure-file-transfer
+  labels:
+    app: secure-file-transfer
+    environment: production
